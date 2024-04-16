@@ -7,10 +7,11 @@ body {
     background-color: red;
     width: 40%;
     padding: 10px;
+    display: inline-block;
 }
 
-#barra-blue {
-    background-color: #01316C;
+#barra-black {
+    background-color: #1E1E1E;
     width: 40%;
     padding: 10px;
     display: inline-block
@@ -28,9 +29,10 @@ body {
     padding: 40px;
     display: flex;
     justify-content: space-around;
-    flex-direction: row;
+    flex-direction: row;     
 
 }
+
 
 a {
     color: white;
@@ -54,3 +56,11 @@ a {
     height: 190px;
     width: 170px;
 }
+
+#mais-noticias {
+    font-size: 300%;
+    text-align: left;
+    
+
+}
+
