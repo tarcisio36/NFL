@@ -59,8 +59,17 @@ a {
 
 #mais-noticias {
     font-size: 300%;
-    text-align: left;
-    
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#noticias{
+    display: inline-block;
+}
+#block{
+    width: 50%;
+    background-color: black;
+    height: 10px;
+    display: inline-block;
 }
 
